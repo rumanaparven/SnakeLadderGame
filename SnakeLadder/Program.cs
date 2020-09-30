@@ -6,7 +6,8 @@ namespace SnakeLadder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Snake and Ladder problem.");
+            int playerPosition = 0;
+            Console.WriteLine("Snake and Ladder game played with single player at position "+playerPosition);
         }
     }
 }
